@@ -62,11 +62,3 @@ if st.button("Analizar"):
         - Descripción del proyecto (1–2 páginas)  
         - Presupuesto detallado y cronograma  
         """)
-
----
-
-### ▶️ 3. Ejecutar tu aplicación
-En la terminal (donde guardaste el archivo), ejecutas:
-
-```bash
-streamlit run orientador_convocatorias.py
